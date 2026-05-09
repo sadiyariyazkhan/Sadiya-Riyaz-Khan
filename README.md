@@ -47,7 +47,7 @@ I build end-to-end machine learning and Generative AI systems — from data prep
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🏥 AI Healthcare Chatbot]((https://github.com/sadiyariyazkhan/AI-Healthcare-Chatbot)) | LLaMA 3.3 + FastAPI + RAG + Speech-to-Text for medical Q&A | LLaMA, FastAPI, RAG, STT |
+| [🏥 AI Healthcare Chatbot](https://github.com/sadiyariyazkhan/AI-Healthcare-Chatbot) | LLaMA 3.3 + FastAPI + RAG + Speech-to-Text for medical Q&A | LLaMA, FastAPI, RAG, STT |
 | [🔍 RAG Pipeline](https://github.com/sadiyariyazkhan/RAG-Pipeline) | End-to-end Retrieval-Augmented Generation with FAISS + Sentence Transformers | LangChain, FAISS, HuggingFace |
 | [❤️ Heart Disease Prediction](https://github.com/sadiyariyazkhan/Heart-Disease-Prediction) | 91.3% accuracy ML model using XGBoost, Random Forest, SVM | Scikit-learn, XGBoost, Joblib |
 | [📈 LSTM Stock Predictor](https://github.com/sadiyariyazkhan/LSTM-stock-predictor) | Time-series stock price forecasting using deep learning | TensorFlow, Keras, LSTM |
